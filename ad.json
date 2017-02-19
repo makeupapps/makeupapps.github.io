@@ -20,9 +20,15 @@
 	 },
 	 {
          "title":"Eyes makeup",
-         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.makeuptutorials&hl=en",
+         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.makeuptutorials",
          "img":"https://s-media-cache-ak0.pinimg.com/736x/54/68/04/54680452de0fc35a91862a44c92d030b.jpg",
 	     "description":"step by step"
-	 }
+	 },
+     {
+         "title":"Hairstyle",
+         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.newhairstyles",
+         "img":"https://s-media-cache-ak0.pinimg.com/736x/ec/67/0b/ec670bc52076e4d81a1e4ed9677345c2.jpg",
+        "description":"step by step"
+    }
 	]
 }
