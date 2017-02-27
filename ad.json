@@ -30,5 +30,39 @@
          "img":"https://s-media-cache-ak0.pinimg.com/736x/ec/67/0b/ec670bc52076e4d81a1e4ed9677345c2.jpg",
         "description":"step by step"
     }
+    ,
+     {
+         "title":"Dresses",
+         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.plussize",
+         "img":"http://demandware.edgesuite.net/aaqe_prd/on/demandware.static/-/Sites-eloquii-catalog/default/dwf77c26be/images/shelf2/1224152_017_1.jpg",
+        "description":"Plus Size"
+    }
+    ,
+     {
+         "title":"Nails",
+         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.nails",
+         "img":"https://s-media-cache-ak0.pinimg.com/736x/3b/bb/95/3bbb95f211c7da7308b0642a197fece1.jpg",
+        "description":"tutorial 2017"
+    }
+    ,
+     {
+         "title":"Nails Art",
+         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.nailsart",
+         "img":"https://i.ytimg.com/vi/QO17-KpFbs4/maxresdefault.jpg",
+        "description":"for artist"
+    }
+    ,
+     {
+         "title":"Make Up",
+         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.makeupart",
+         "img":"http://4.bp.blogspot.com/-tUoful6kRpg/VWwbVmsuj4I/AAAAAAAAA50/jjK4x6WAEWA/s1600/35709-makeup-make-up.jpeg",
+        "description":"art"
+    },
+     {
+         "title":"Short Hair",
+         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.shorthair",
+         "img":"http://babyben.ru/images/babyben/2016/07/kosa-1.jpg",
+        "description":"style"
+    }
 	]
 }
