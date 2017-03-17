@@ -63,6 +63,36 @@
          "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.shorthair",
          "img":"http://babyben.ru/images/babyben/2016/07/kosa-1.jpg",
         "description":"style"
+    },
+     {
+         "title":"Nails Art",
+         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.nails4",
+         "img":"https://s-media-cache-ak0.pinimg.com/736x/8b/fd/58/8bfd58a6770f2463818890d84de4fab2.jpg",
+        "description":""
+    },
+     {
+         "title":"Nails Art",
+         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.nails3",
+         "img":"https://s-media-cache-ak0.pinimg.com/736x/c0/c8/c1/c0c8c177953bf8d8cae2dc22d93df937.jpg",
+        "description":"2017"
+    },
+     {
+         "title":"HairStyles",
+         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.hair2",
+         "img":"http://pophaircuts.com/images/2014/10/Best-Long-Hairstyles-for-2015-Ombre-Wavy-Hair.jpg",
+        "description":"2017"
+    },
+     {
+         "title":"Nails Art",
+         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.nails2",
+         "img":"https://s-media-cache-ak0.pinimg.com/736x/ec/2d/f3/ec2df3f2c0571eb9d607a8a0e240516a.jpg",
+        "description":"new"
+    },
+     {
+         "title":"Lips",
+         "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.lips",
+         "img":"https://beautysaloon.files.wordpress.com/2010/08/redlips.jpg",
+        "description":"Make Up 2017"
     }
 	]
 }
