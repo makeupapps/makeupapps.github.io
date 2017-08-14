@@ -99,6 +99,12 @@
          "url":"https://play.google.com/store/apps/details?id=io.makeupapps.app.lips",
          "img":"https://beautysaloon.files.wordpress.com/2010/08/redlips.jpg",
         "description":"Make Up 2017"
+    },
+    {
+         "title":"Halloween",
+         "url":"https://play.google.com/store/apps/details?id=com.gallery.halloween2017",
+         "img":"https://s-media-cache-ak0.pinimg.com/originals/47/5d/38/475d38f22c7dd8d964fb8d438d193036.jpg",
+        "description":"Make Up"
     }
 	]
 }
