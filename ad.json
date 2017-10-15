@@ -100,23 +100,12 @@
          "img":"https://beautysaloon.files.wordpress.com/2010/08/redlips.jpg",
         "description":"Make Up 2017"
     },
-    {
-         "title":"Halloween",
-         "url":"https://play.google.com/store/apps/details?id=com.gallery.halloween2017",
-         "img":"https://s-media-cache-ak0.pinimg.com/originals/47/5d/38/475d38f22c7dd8d964fb8d438d193036.jpg",
-        "description":"Make Up"
-    },
+   
 	    {
          "title":"Day of the Dead",
          "url":"https://play.google.com/store/apps/details?id=com.gallery.skullsmakeup2017",
          "img":"https://gunsmokeandknitting.files.wordpress.com/2012/10/lena_hoschek_mexican-skull-makeup1.jpg",
         "description":"Skull Makeup"
-    },
-	    {
-         "title":"Halloween 2017",
-         "url":"https://play.google.com/store/apps/details?id=com.gallery.makeuphalloween17",
-         "img":"https://i.pinimg.com/736x/6b/2d/4d/6b2d4dc0bddd6288538197f4f0431aa9--halloween-make-up-halloween-skull.jpg",
-        "description":"Makeup"
     }
 	]
 }
