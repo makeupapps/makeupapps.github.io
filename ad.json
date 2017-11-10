@@ -106,6 +106,19 @@
          "url":"https://play.google.com/store/apps/details?id=com.gallery.skullsmakeup2017",
          "img":"https://gunsmokeandknitting.files.wordpress.com/2012/10/lena_hoschek_mexican-skull-makeup1.jpg",
         "description":"Skull Makeup"
+    },
+     {
+         "title":"Love Camera",
+         "url":"https://play.google.com/store/apps/details?id=com.maskcamera.valentinecamera",
+         "img":"https://lh3.googleusercontent.com/-Gn91wxOTOzO7GoAbXyZEeCfTErqTNk99ou0BDnEOwkvDuGbVsacgJzDrTi4K98sxuU",
+        "description":"Frames and effects"
+    },
+     {
+         "title":"Christmas Camera",
+         "url":"https://play.google.com/store/apps/details?id=com.maskcamera.newyearcamera",
+         "img":"https://lh3.googleusercontent.com/UGdSOz35dNga7EMez4lZDCvjqiDevabsRsLoEoEIbUqnbm7DxtKB_Oo7Jy6Fl9-O-Q",
+        "description":"Frames and effects"
     }
+	   
 	]
 }
