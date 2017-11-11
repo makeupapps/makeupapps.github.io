@@ -118,6 +118,12 @@
          "url":"https://play.google.com/store/apps/details?id=com.maskcamera.newyearcamera",
          "img":"https://lh3.googleusercontent.com/UGdSOz35dNga7EMez4lZDCvjqiDevabsRsLoEoEIbUqnbm7DxtKB_Oo7Jy6Fl9-O-Q",
         "description":"Frames and effects"
+    },
+     {
+         "title":"Birthday Camera",
+         "url":"https://play.google.com/store/apps/details?id=com.maskcamera.birthdaycamera",
+         "img":"https://lh3.googleusercontent.com/vAoufO8fF110TlYaE5LjVdKd2GaMSuxm1N937x1IRJe8no1IUqlEAF9nIw6h-0HGCso",
+        "description":"Frames and effects"
     }
 	   
 	]
