@@ -124,6 +124,12 @@
          "url":"https://play.google.com/store/apps/details?id=com.maskcamera.birthdaycamera",
          "img":"https://lh3.googleusercontent.com/vAoufO8fF110TlYaE5LjVdKd2GaMSuxm1N937x1IRJe8no1IUqlEAF9nIw6h-0HGCso",
         "description":"Frames and effects"
+    },
+     {
+         "title":"Thanksgiving Day Camera",
+         "url":"https://play.google.com/store/apps/details?id=com.maskcamera.thxgivingdaycamera",
+         "img":"https://lh3.googleusercontent.com/lyIW7Ii-RJy-nyuILsc46mOVq1ZFVlZeARX0IivPB34oqwofoV1qVGMUztbYnIzjVIY",
+        "description":"Frames and effects"
     }
 	   
 	]
