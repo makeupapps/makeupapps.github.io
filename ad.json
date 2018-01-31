@@ -6,12 +6,6 @@
          "img":"https://lh3.googleusercontent.com/AKIHEfdD-BVsraho50y_PUv0H_q_wGswCIm7Cf5C-PEI4dvWxp9Z1Y-Dgv1Jce0lrA",
 	     "description":"Camera effects"
 	 },
-       {
-         "title":"Xmas Cards",
-         "url":"https://play.google.com/store/apps/details?id=com.gallery.newyearcards0112.json",
-         "img":"https://lh3.googleusercontent.com/ePAWLA1wp15Kk4fXtMmvqxLs8V-nRH4K7bhOCjERGH1e_x-a3vZPDRFTJnUbQAr5Qo4",
-	     "description":"Greeting Vintage Cards"
-	 },
 	   {
          "title":"Girls Hairstyle",
          "url":"https://play.google.com/store/apps/details?id=com.gallery.hairstyles",
@@ -29,18 +23,6 @@
          "url":"https://play.google.com/store/apps/details?id=com.gallery.hsirstep1011",
          "img":"https://lh3.googleusercontent.com/A_GMbQXV_ySxYY4Ugi5iSNmQWYKz9WYCIFfJccVfqlwHL8Q3hSbVyWsOrUMWOL3x3g",
 	     "description":"step by step"
-	 },
-	   {
-         "title":"Christmas Hairstyles",
-         "url":"https://play.google.com/store/apps/details?id=com.gallery.newyearhair1011",
-         "img":"https://lh3.googleusercontent.com/AoivkZb_OvcrBoLQMpzkYw50qcYVJ4dvoFuX85W0D3KxUx3oRfcDuRH9x5Kp83XMjr0b",
-	     "description":"and makeup"
-	 },
-	 {
-         "title":"New Year Make Up",
-         "url":"https://play.google.com/store/apps/details?id=com.gallery.newyear1310",
-         "img":"https://lh3.googleusercontent.com/frRj3ujT1QeNytZRGuDxuTXRmV0JZztA7Sf7AaJzYngqWC4B5sSU4SCGNMzddQBmTQ",
-	     "description":"Tutorial"
 	 },
      {
          "title":"Hairstyle",
@@ -126,26 +108,9 @@
         "description":"Frames and effects"
     },
      {
-         "title":"Christmas Camera",
-         "url":"https://play.google.com/store/apps/details?id=com.maskcamera.newyearcamera",
-         "img":"https://lh3.googleusercontent.com/UGdSOz35dNga7EMez4lZDCvjqiDevabsRsLoEoEIbUqnbm7DxtKB_Oo7Jy6Fl9-O-Q",
-        "description":"Frames and effects"
-    },
-     {
          "title":"Birthday Camera",
          "url":"https://play.google.com/store/apps/details?id=com.maskcamera.birthdaycamera",
          "img":"https://lh3.googleusercontent.com/vAoufO8fF110TlYaE5LjVdKd2GaMSuxm1N937x1IRJe8no1IUqlEAF9nIw6h-0HGCso",
-        "description":"Frames and effects"
-    },
-     {
-         "title":"Thanksgiving Day Camera",
-         "url":"https://play.google.com/store/apps/details?id=com.maskcamera.thxgivingdaycamera",
-         "img":"https://lh3.googleusercontent.com/lyIW7Ii-RJy-nyuILsc46mOVq1ZFVlZeARX0IivPB34oqwofoV1qVGMUztbYnIzjVIY",
-        "description":"Frames and effects"
-    },{
-	        "title":"Xmas Camera",
-         "url":"https://play.google.com/store/apps/details?id=com.maskcamera.christmascamera2711",
-         "img":"https://lh3.googleusercontent.com/GtYrYxc_KPoESwzwNleBY0lhB53CnUbR2Mv2I99CK_VBjkwlHafLy3mZsXxGc4JVlA",
         "description":"Frames and effects"
     }
 	   
