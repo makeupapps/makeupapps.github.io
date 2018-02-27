@@ -127,7 +127,49 @@
          "url":"https://play.google.com/store/apps/details?id=com.maskcamera.birthdaycamera",
          "img":"https://lh3.googleusercontent.com/vAoufO8fF110TlYaE5LjVdKd2GaMSuxm1N937x1IRJe8no1IUqlEAF9nIw6h-0HGCso",
         "description":"Frames and effects"
-    }
+    },
+	   {
+         "title":"Cross Stitch",
+         "url":"https://play.google.com/store/apps/details?id=com.galleryapp.h2502animals.json",
+         "img":"https://lh3.googleusercontent.com/zglFjeiPsEBXwX13CssboOlj4PlHXN25DubIwxXqBzkdCw1rkuP-gILAYg0vW4_JA3kD",
+	     "description":"patterns"
+	 },
+	   {
+         "title":"Plus Size",
+         "url":"https://play.google.com/store/apps/details?id=com.galleryapp.hplussize2702.json",
+         "img":"https://lh3.googleusercontent.com/fVp4TUbJI4CtLT9Ai5RQhT7S4w75fvf5tcQDpiBjJHLOBist-xSDwgWU00fvSokVusY",
+	     "description":"Clothes"
+	 },
+	   {
+         "title":"Short hairstyles",
+         "url":"https://play.google.com/store/apps/details?id=com.galleryapp.hShorthairstyles2702.json",
+         "img":"https://lh3.googleusercontent.com/fRLvO9giJ0OAcF6eW0EE_xdFCA7HQq-6tqS2Grwzk4ul1mm3nq4dWe3cJHchnpu95iY",
+	     "description":""
+	 },
+	   {
+         "title":"Short Hair",
+         "url":"https://play.google.com/store/apps/details?id=com.galleryapp.hhair2702.json",
+         "img":"https://lh3.googleusercontent.com/r-96pvZrq0sTTOuD3Mfkwe_zVSU40FtQDw-dHEpFyv5zOY1Q76uM_pAizV_C0btx2w",
+	     "description":""
+	 },
+	   {
+         "title":"Cross Stitch",
+         "url":"https://play.google.com/store/apps/details?id=com.galleryapp.hcross2702.json",
+         "img":"https://lh3.googleusercontent.com/S_v2LW5wID16pYZObNF8aT2gjwvv7I0NIFUvWm3G83aFFIezjtmtAxieN0HAFrcLrQ",
+	     "description":""
+	 },
+	   {
+         "title":"Cross Stitch",
+         "url":"https://play.google.com/store/apps/details?id=com.galleryapp.hcross3_2702.json",
+         "img":"https://lh3.googleusercontent.com/tt7ifQax2ZYfHkljEftgbG5CsJnpbuDqqK_3cnzs6uRrasLZtbxbg17NItjxdS6cz0uv",
+	     "description":""
+	 },
+	   {
+         "title":"Easter Cards",
+         "url":"https://play.google.com/store/apps/details?id=com.galleryapp.heaster2702.json",
+         "img":"https://lh3.googleusercontent.com/vsl43PGrE-OagxCr2k2PddtFbK5pcndQWU1ejNsZRYw4h09mlWwXb3xblZhNzv6yR_E",
+	     "description":""
+	 }
 	   
 	]
 }
