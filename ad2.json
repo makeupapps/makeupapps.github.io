@@ -12,8 +12,14 @@
          "url":"https://play.google.com/store/apps/details?id=com.gallery.hairstyles",
          "img":"https://lh3.googleusercontent.com/kE2a-AMGQIe5tfAxBuwhiLgDddteJY37qIhveK0gBjFPxReWiq7IGKdXCh4C92xKmA",
 	  "description":"for girls"
-	
-	 }
-	   
+	 },
+	   {	 "title":"Cross Stitch",
+         "url":"https://play.google.com/store/apps/details?id=com.galleryapp.h2502animals.json",
+         "img":"https://lh3.googleusercontent.com/zglFjeiPsEBXwX13CssboOlj4PlHXN25DubIwxXqBzkdCw1rkuP-gILAYg0vW4_JA3kD",
+	  "description":"for beginers"}	   ,
+	   {	 "title":"Hairstyle",
+         "url":"https://play.google.com/store/apps/details?id=com.gallery.hair1109",
+         "img":"https://lh3.googleusercontent.com/1_GOzDmyuchOMUmdzANRb80Jj4Py-ZYVLo6apjSGQixqcurW16QjypLEf0PWrp_JZBc",
+	  "description":"step by step"}	   
 	]
 }
